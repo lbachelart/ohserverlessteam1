@@ -1,3 +1,4 @@
+// Class that describes a rating
 public class Rating
 {
 public string id { get; set; }
